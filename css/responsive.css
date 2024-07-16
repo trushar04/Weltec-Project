@@ -687,10 +687,10 @@
         padding: 11px 15px 11px 15px;
     }
     .subscribe-bg-img-perent-2 input {
-        padding: 20px 42% 20px 20px;
+    padding: 20px 42% 20px 20px;
     }
-    .slog .slog-span{
-        font-size: 39px ;
+    .slog span {
+    font-size: 43px;
     }
     .tab-search-botton {
         padding: 20px 37.6%;
