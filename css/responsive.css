@@ -1,9 +1,9 @@
-@media only screen and  (max-width: 2560px) {
+@media only screen and  (max-width: 1400px) {
     .banner-img {
         height: fit-content;
     }
     .tab-search-botton {
-        padding: 20px 6.7%;
+        padding: 20px 6%;
     }
     .align-items-center {
         justify-content: space-between;
@@ -12,13 +12,13 @@
         justify-content: space-between;
     }
     .subscribe-bg-img-perent-2 {
-        top: 8%;
+        top: 7%;
     }
     .populare-content-hor {
-        top: 35%;
+        top: 28%;
     }
     .populare-content-ver {
-        top: 63%;
+        top: 50%;
     }
     .getin-bg {
         background-repeat: no-repeat;
@@ -26,7 +26,7 @@
         background-size: cover;
     }
 }
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1200px) {
     .slog h1 {
         font-size: 49px;
         line-height: 60px;
@@ -41,7 +41,7 @@
         margin-top: 10px;
     }
     .slog {
-        top: 35%;
+        top: 29%;
     }
     .navbar-expand-lg .navbar-nav .nav-link {
         padding-right: 0;
@@ -80,7 +80,7 @@
         padding: 100px 0px 100px 150px;
     }
     .about-img-1 {
-        right: -5%;
+        right: -3%;
     }
     .about-img-2 {
         top: 268px;
@@ -184,6 +184,11 @@
         height: fit-content;
     }
 }
+@media only screen and (max-width: 992px) {
+    .slog {
+        top: 23%;
+    }
+}
 @media only screen and (max-width: 768px) {
     .slog h1 {
         font-size: 45px ;
@@ -191,13 +196,13 @@
         width: 54%;
     }
     .slog span{
-        font-size: 45px !important;
+        font-size: 45px;
     }
     .josefin-slog-text {
         font-size: 32px;
     }
     .slog {
-        top: 30%;
+        top: 17%;
     }
     .slog p {
         font-size: 17px;
@@ -264,7 +269,7 @@
         padding: 20px 11px 20px 20px;
     }
     .subscribe-bg-img-perent-2 {
-        top: 2%;
+        top: 3%;
     }
     .about-slog {
         top: 50%;
@@ -275,7 +280,7 @@
         line-height: 65px;
     }
     .josefin-slog-text {
-        font-size: 54px !important;
+        font-size: 54px ;
     }
     .about-heading {
         width: 71%;
@@ -335,6 +340,70 @@
         padding: 5px;
     }
 }
+@media only screen and (max-width: 576px) {
+    .slog {
+        top: 22%;
+    }
+    .slog h1 {
+        font-size: 30px;
+        line-height: 40px;
+        width: 74%;
+    }
+    .slog span {
+        font-size: 30px;
+    }
+    .banner-img {
+        height: 400px;
+    }
+    .tab-bottons {
+        padding: 18px 17.2px;
+    }
+    .nav-item{
+        font-size: 15px;
+    }
+    .tabs .Tour-Type, .Tour-Duration, .Tour-Dastination {
+        width: 46%;
+    }
+    .tab-search-botton {
+        padding: 20px 17.2%;
+    }
+    .video-contant h1 {
+        font-size: 30px !important;
+    }
+    .populare-content-hor {
+        top: 31%;
+    }
+    .philosopher-regular-sub-title {
+        font-size: 27px;
+    }
+    .populare-content-ver {
+        top: 80%;
+        left: 6%;
+    }
+    .subscribe-bg-content h1 {
+        font-size: 19px;
+    }
+    .subscribe-bg-img-perent-2 {
+        top: 1.5%;
+    }
+    .subscribe-bg-img-perent-2 input {
+        padding: 10px 11px 10px 20px;
+    }
+}
+}
+@media only screen and (width: 430px) {
+    .slog {
+        position: relative;
+    }
+    .slog h1 {
+        color: #008F8C;
+        line-height: 54px;
+        font-size: 49px;
+    }
+    .slog span{
+        font-size: 49px;
+    }
+}
 @media only screen and (max-width: 425px) {
     .banner-img {
         height: fit-content;
@@ -353,7 +422,7 @@
         font-size: 49px;
     }
     .slog span{
-        font-size: 49px !important;
+        font-size: 49px;
     }
     .logo {
         width: 150px;
@@ -602,8 +671,8 @@
     .desti-names ul {
         margin: 30px 37px;
     }
-    .slog span {
-        font-size: 46px !important;
+    .common-bg h4 {
+        font-size: 20px;
     }
     .nav-tabs .nav-link {
         font-size: 11px !important;
@@ -620,8 +689,14 @@
     .subscribe-bg-img-perent-2 input {
         padding: 20px 42% 20px 20px;
     }
-    .slog span {
-        font-size: 43px !important;
+    .slog .slog-span{
+        font-size: 39px ;
+    }
+    .tab-search-botton {
+        padding: 20px 37.6%;
+    }
+    .populare-content-ver {
+        top: 73%;
     }
 }
 @media only screen and (max-width: 320px) {
@@ -629,7 +704,7 @@
         height: 400px;
     }
     .slog span {
-        font-size: 36px !important;
+        font-size: 36px ;
     }
     .slog h1 {
         line-height: 46px;
@@ -701,11 +776,26 @@
     .populare-content-hor {
         top: 16%;
     }
+    .populare-content-hor .explore-botton {
+        padding: 5px 10px 5px 10px;
+        margin-top: 2px;
+    }
     .populare-content-ver {
-        top: 31%;
+        top: 68%;
+    }
+    .nav-tabs .nav-link {
+        font-size: 10px !important;
+    }
+    .tab-bottons {
+        padding: 10px 0.2em;
+        font-size: 8px;
     }
     .common-bg p {
         font-size: 11px;
+    }
+    .play-botton-3 i {
+        font-size: 20px;
+        left: 37%;
     }
     .vector2 {
         right: 28px;
